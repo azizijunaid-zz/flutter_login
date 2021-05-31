@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 ## Screen Shot
-    ![image info](./assets/ScreenShot.png)
+   ![ScreenShoot](assets/ScreenShot.png)
     
 This project is a starting point for a Flutter application.
 
