@@ -5,8 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 ## Screen Shot
-    https://github.com/azizijunaid/flutter_login/blob/master/Screenshot%202021-05-31%20at%201.05.27%20PM.png
-
+    ![image info](./ScreenShot.png)
+    
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
