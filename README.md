@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+## Screen Shot
+    (https://github.com/azizijunaid/flutter_login/blob/master/Screenshot 2021-05-31 at 1.05.27 PM.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
